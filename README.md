@@ -456,3 +456,5 @@
 * [ubidump](https://github.com/nlitsme/ubidump) - Tool for viewing and extracting files from an UBIFS image `2020`
 
 * [mi_lua](https://github.com/zh-explorer/mi_lua) - xiaomi lua anti `2020`
+
+* [](https://github.com/google/souper) - A superoptimizer for LLVM IR `2020`
