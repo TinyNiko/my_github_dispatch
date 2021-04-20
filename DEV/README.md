@@ -2,10 +2,6 @@
 
 * [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - Tencent IOT operator system `2021`
 
-* [ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - procmon for linux `2021`
-
-* [gitxref](https://github.com/ali1234/gitxref) - Software to reconstruct git history from tarballs `2018`
-
 * [optee_os](https://github.com/OP-TEE/optee_os) - Trusted side of the TEE `2021`
 
 * [mi_lua](https://github.com/zh-explorer/mi_lua) - xiaomi lua anti `2020`
@@ -33,3 +29,18 @@
 * [kaitai_struct_compiler](https://github.com/kaitai-io/kaitai_struct_compiler) - Kaitai Struct `2021`
 
 * [ubi_reader](https://github.com/jrspruitt/ubi_reader) - ubi_reader  `2020`
+
+
+# TODO LIST
+
+* [YANSOllvm](https://github.com/emc2314/YANSOllvm) - Yet Another Not So Obfuscated LLVM `2020`
+
+* [TencentOS-tiny](https://github.com/Tencent/TencentOS-tiny) - Tencent IOT operator system `2021`
+
+* [optee_os](https://github.com/OP-TEE/optee_os) - Trusted side of the TEE `2021`
+
+* [mi_lua](https://github.com/zh-explorer/mi_lua) - xiaomi lua anti `2020`
+
+* [proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server `2021`
+
+* [souper](https://github.com/google/souper) - A superoptimizer for LLVM IR `2020`
