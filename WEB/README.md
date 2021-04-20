@@ -45,3 +45,6 @@
 * [wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner `2021`
 
 * [pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) - OSINT Tool for Finding Passwords of Compromised Email Addresses `2020`
+
+* [gitxref](https://github.com/ali1234/gitxref) - Software to reconstruct git history from tarballs `2018`
+

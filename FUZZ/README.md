@@ -1,7 +1,10 @@
 
-## FUZZ&&EXP
+## FUZZ
 
-* [binfuzz](https://github.com/artemdinaburg/binfuzz) - A js fuzzer  `2013`
+## EXP
+
+* [iot-vulhub](https://github.com/firmianay/IoT-vulhub) - iot vulhub `2021`
+
 
 * [lucky-js-fuzz](https://github.com/leonwxqian/lucky-js-fuzz) - A js fuzzer `2019`
 
