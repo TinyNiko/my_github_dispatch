@@ -1,10 +1,18 @@
 
-## FUZZ
+# FUZZ
 
-## EXP
+## binary fuzz
+
+* [uniFuzzer](https://github.com/PAGalaxyLab/uniFuzzer) - A fuzzing demo for closed-source binaries based on Unicorn and LibFuzzer `2019`
+
+## Android
+
+
+# EXP
 
 * [iot-vulhub](https://github.com/firmianay/IoT-vulhub) - iot vulhub `2021`
 
+* [Ropper](https://github.com/sashs/Ropper) - rop gadget finder `2021`
 
 * [lucky-js-fuzz](https://github.com/leonwxqian/lucky-js-fuzz) - A js fuzzer `2019`
 
@@ -24,17 +32,9 @@
 
 * [linux-exploit-suggester-2](https://github.com/jondonas/linux-exploit-suggester-2) - Next-Generation Linux Kernel Exploit Suggester `2020`
 
-* [dirtycow-vdso](https://github.com/scumjr/dirtycow-vdso) - dirtycow `2017`
-
-* [android-afl](https://github.com/ele7enxxh/android-afl) - Android AFL `2017`
-
 * [fuzzer](https://github.com/shellphish/fuzzer) - A Python interface to AFL `2017`
 
 * [CVE-2015-0568](https://github.com/betalphafai/CVE-2015-0568) - exploit for CVE-2015-0568 `2016`
-
-* [Ropper](https://github.com/sashs/Ropper) - rop gadget finder `2021`
-
-* [exploitable](https://github.com/jfoote/exploitable) - The 'exploitable' GDB plugin `2020`
 
 * [kernel-exploits](https://github.com/xairy/kernel-exploits) - Proof-of-concept exploits for the Linux kernel `2020`
 
@@ -154,8 +154,6 @@
 
 * [toothpicker](https://github.com/seemoo-lab/toothpicker) - ToothPicker is an in-process, coverage-guided fuzzer for iOS `2021`
 
-* [uniFuzzer](https://github.com/PAGalaxyLab/uniFuzzer) - A fuzzing tool for closed-source binaries based on Unicorn and LibFuzzer `2019`
-
 * [qu1ckr00t](https://github.com/grant-h/qu1ckr00t) - A PoC application demonstrating the power of an Android kernel arbitrary R/W `2019`
 
 * [Jandroid](https://github.com/FSecureLABS/Jandroid) - Jandroid `2020`
@@ -189,3 +187,8 @@
 * [manul](https://github.com/mxmssh/manul) - Manul is a coverage-guided parallel fuzzer for open-source and blackbox binaries on Windows, Linux and MacOS `2020`
 
 * [CVE-2019-11707](https://github.com/vigneshsrao/CVE-2019-11707) - Exploit code for CVE-2019-11707 on Firefox 66.0.3 running on Ubuntu `2019`
+
+
+# TODO LIST 
+
+* [iot-vulhub](https://github.com/firmianay/IoT-vulhub) - iot vulhub `2021`
