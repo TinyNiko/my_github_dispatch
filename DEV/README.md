@@ -6,8 +6,6 @@
 
 * [mi_lua](https://github.com/zh-explorer/mi_lua) - xiaomi lua anti `2020`
 
-* [proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server `2021`
-
 * [souper](https://github.com/google/souper) - A superoptimizer for LLVM IR `2020`
 
 * [paper_collection](https://github.com/0xricksanchez/paper_collection) - papers `2021`
@@ -40,7 +38,5 @@
 * [optee_os](https://github.com/OP-TEE/optee_os) - Trusted side of the TEE `2021`
 
 * [mi_lua](https://github.com/zh-explorer/mi_lua) - xiaomi lua anti `2020`
-
-* [proxygen](https://github.com/facebook/proxygen) - A collection of C++ HTTP libraries including an easy to use HTTP server `2021`
 
 * [souper](https://github.com/google/souper) - A superoptimizer for LLVM IR `2020`
