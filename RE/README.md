@@ -25,6 +25,9 @@
 
 * [Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book) - Getting started with static program analysis `2021` 
 
+* [sspam](https://github.com/quarkslab/sspam) - Symbolic Simplification with PAttern Matching `2017`
+
+
 ## Tools
 
 * [Ponce](https://github.com/illera88/Ponce) - IDA plugin for taint analysis `2020`
@@ -53,6 +56,9 @@
 
 * [pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs `2021`
 
+* [tenet](https://github.com/gaasedelen/tenet) - A Trace Explorer for Reverse Engineers `2021`
+
+* [pypcode](https://github.com/angr/pypcode) - Python bindings to Ghidra's SLEIGH library for disassembly and IR translation  `2021`
 
 # second order
 
@@ -152,3 +158,6 @@
 * [lighthouse](https://github.com/gaasedelen/lighthouse) - A Code Coverage Explorer for Reverse Engineers `2020`
 
 * [idahunt](https://github.com/nccgroup/idahunt) - idahunt is a framework to analyze binaries with IDA Pro and hunt for things in IDA Pro `2021`
+
+* [medusa](https://github.com/Ch0pin/medusa) - Binary instrumentation framework based on FRIDA `2021`
+

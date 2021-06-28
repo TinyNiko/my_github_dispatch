@@ -27,6 +27,7 @@
 
 * [dharma](https://github.com/MozillaSecurity/dharma) - Generation-based, context-free grammar fuzzer `2020`
 
+* [fzero_fuzzer](https://github.com/gamozolabs/fzero_fuzzer) - A fast Rust-based safe and thead-friendly grammar-based fuzz generator `2019`
 
 ## Android
 
@@ -113,3 +114,21 @@
 * [symbiotic](https://github.com/staticafi/symbiotic) - Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE `2021`
 
 * [manul](https://github.com/mxmssh/manul) - Manul is a coverage-guided parallel fuzzer for open-source and blackbox binaries on Windows, Linux and MacOS `2020`
+
+* [Kirenenko](https://github.com/ChengyuSong/Kirenenko) - Super Fast Concolic Execution Engine based on Source Code Taint Tracing `2021`
+
+* [security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code. `2021`
+
+* [emba](https://github.com/e-m-b-a/emba) - emba - The security analyzer for embedded device firmware. `2021`
+
+* [fpicker](https://github.com/ttdennis/fpicker) - picker is a Frida-based fuzzing suite supporting various modes (including AFL++ in-process fuzzing) `2021`
+
+* [syntia](https://github.com/RUB-SysSec/syntia) - Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the Semantics of Obfuscated Code"    `2018`
+
+* [hotwax](https://github.com/meme/hotwax) - Coverage-guided binary fuzzing powered by Frida Stalker `2021`
+
+* [FirmAFL](https://github.com/zyw-200/FirmAFL) - FIRM-AFL is the first high-throughput greybox fuzzer for IoT firmware. `2021`
+
+* [Driver-Security-Analyzer](https://github.com/alibaba-edu/Driver-Security-Analyzer) -  Driver Security Analyzer `2021`
+
+* [fisy-fuzz](https://github.com/0xricksanchez/fisy-fuzz) - This is the full file system fuzzing framework that I presented at the Hack in the Box 2020 Lockdown Edition conference in April. `2020`
