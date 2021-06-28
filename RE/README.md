@@ -41,6 +41,8 @@
 
 * [llvm-mctoll](https://github.com/microsoft/llvm-mctoll) - llvm-mctoll `2021`
 
+* [Ponce](https://github.com/illera88/Ponce) - IDA plugin for taint analysis `2020`
+
 * [retdec](https://github.com/avast/retdec) - retdec `2021`
 
 * [mcsema](https://github.com/lifting-bits/mcsema) - mcsema `2021`
