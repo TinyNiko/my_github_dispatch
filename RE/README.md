@@ -14,9 +14,6 @@
 
 * [Grapefruit](https://github.com/ChiChou/Grapefruit) - Runtime Application Instruments for iOS `2021`
 
-* [sandblaster](https://github.com/malus-security/sandblaster) - Reversing the Apple sandbox `2020`
-
-
 ## Symbol
 
 * [manticore](https://github.com/trailofbits/manticore) - symbol execution tool `2021`
@@ -59,6 +56,11 @@
 * [tenet](https://github.com/gaasedelen/tenet) - A Trace Explorer for Reverse Engineers `2021`
 
 * [pypcode](https://github.com/angr/pypcode) - Python bindings to Ghidra's SLEIGH library for disassembly and IR translation  `2021`
+
+* [lighthouse](https://github.com/gaasedelen/lighthouse) - A Code Coverage Explorer for Reverse Engineers `2020`
+
+* [dynTaintTracer](https://github.com/vanhauser-thc/dynTaintTracer) - a taint tracer based on DynamoRIO, currently ARM only `2020`
+
 
 # second order
 
@@ -114,6 +116,8 @@
 
 * [abyss](https://github.com/patois/abyss) - IDAPython Plugin for Postprocessing of Hexrays Decompiler Output `2021`
 
+* [pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs `2021`
+
 
 ## Other
 
@@ -143,21 +147,12 @@
 
 * [frida-il2cpp](https://github.com/qgy123/frida-il2cpp) - frida-il2cpp `2020`
 
-# TODO LIST 
-
-* [pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs `2021`
-
-* [iblessing](https://github.com/Soulghost/iblessing) - Ios reverse tool `2021`
-
-* [opaque-predicates-detective](https://github.com/yellowbyte/opaque-predicates-detective) - An approach to detect opaque predicates by identifying the damage caused by the obfuscation `2021`
-
-* [dynTaintTracer](https://github.com/vanhauser-thc/dynTaintTracer) - a taint tracer based on DynamoRIO, currently ARM only `2020`
-
-* [panda](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis `2021`
-
-* [lighthouse](https://github.com/gaasedelen/lighthouse) - A Code Coverage Explorer for Reverse Engineers `2020`
+* [sandblaster](https://github.com/malus-security/sandblaster) - Reversing the Apple sandbox `2020`
 
 * [idahunt](https://github.com/nccgroup/idahunt) - idahunt is a framework to analyze binaries with IDA Pro and hunt for things in IDA Pro `2021`
 
-* [medusa](https://github.com/Ch0pin/medusa) - Binary instrumentation framework based on FRIDA `2021`
+# TODO LIST 
 
+* [opaque-predicates-detective](https://github.com/yellowbyte/opaque-predicates-detective) - An approach to detect opaque predicates by identifying the damage caused by the obfuscation `2021`
+
+* [panda](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis `2021`

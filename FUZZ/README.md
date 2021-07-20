@@ -29,6 +29,8 @@
 
 * [fzero_fuzzer](https://github.com/gamozolabs/fzero_fuzzer) - A fast Rust-based safe and thead-friendly grammar-based fuzz generator `2019`
 
+* [frida-fuzzer](https://github.com/andreafioraldi/frida-fuzzer) - This experimetal fuzzer is meant to be used for API in-memory fuzzing `2020`
+
 ## Android
 
 * [android_nfc_fuzzer](https://github.com/m-y-mo/android_nfc_fuzzer) - android nfc fuzzer `2020`
@@ -69,8 +71,6 @@
 * [DangerousMemcpy](https://github.com/assafsion/DangerousMemcpy) - a codeql demo `2020`
 
 
-
-
 # TODO LIST 
 
 * [ios-analysis](https://github.com/IAIK/ios-analysis) - Automated Binary Analysis on iOS `2018`
@@ -100,8 +100,6 @@
 * [qsym](https://github.com/sslab-gatech/qsym) - QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing `2020`
 
 * [FuzzGen](https://github.com/HexHive/FuzzGen) - fuzzgen `2020`
-
-* [frida-fuzzer](https://github.com/andreafioraldi/frida-fuzzer) - This experimetal fuzzer is meant to be used for API in-memory fuzzing `2020`
 
 * [Angora](https://github.com/AngoraFuzzer/Angora) - Angora is a mutation-based fuzzer `2020`
 
