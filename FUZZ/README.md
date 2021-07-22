@@ -31,6 +31,9 @@
 
 * [frida-fuzzer](https://github.com/andreafioraldi/frida-fuzzer) - This experimetal fuzzer is meant to be used for API in-memory fuzzing `2020`
 
+* [SkCodecFuzzer](https://github.com/googleprojectzero/SkCodecFuzzer) - Fuzzing harness for testing proprietary image codecs supported by Skia on Android `2021`
+
+
 ## Android
 
 * [android_nfc_fuzzer](https://github.com/m-y-mo/android_nfc_fuzzer) - android nfc fuzzer `2020`
@@ -72,14 +75,13 @@
 
 * [exploit_mitigations](https://github.com/nccgroup/exploit_mitigations) - Knowledge base of exploit mitigations available across numerous operating systems, architectures and applications and versions. `2021`
 
+* [toothpicker](https://github.com/seemoo-lab/toothpicker) - ToothPicker is an in-process, coverage-guided fuzzer for iOS `2021`
+
 
 # TODO LIST 
 
 * [ios-analysis](https://github.com/IAIK/ios-analysis) - Automated Binary Analysis on iOS `2018`
 
-* [CVE-2018-9411](https://github.com/tamirzb/CVE-2018-9411) - Exploit code for CVE-2018-9411 for MediaCasService `2018`
-
-* [svc_stalker](https://github.com/jsherman212/svc_stalker) - iOS system call/Mach trap interception for checkra1n'able devices `2021`
 
 * [lain](https://github.com/microsoft/lain) - A fuzzer framework built in Rust `2020`
 
@@ -95,7 +97,6 @@
 
 * [p0tools](https://github.com/googleprojectzero/p0tools) - Project Zero Docs and Tools `2020`
 
-* [SkCodecFuzzer](https://github.com/googleprojectzero/SkCodecFuzzer) - Fuzzing harness for testing proprietary image codecs supported by Skia on Android `2021`
 
 * [CodeAlchemist](https://github.com/SoftSec-KAIST/CodeAlchemist) - Semantics-aware Code Generation for Finding JS engine Vulnerabilities `2019`
 
@@ -109,7 +110,6 @@
 
 * [sys](https://github.com/PLSysSec/sys) - A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code `2020`
 
-* [toothpicker](https://github.com/seemoo-lab/toothpicker) - ToothPicker is an in-process, coverage-guided fuzzer for iOS `2021`
 
 * [symbiotic](https://github.com/staticafi/symbiotic) - Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE `2021`
 
@@ -119,7 +119,6 @@
 
 * [security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code. `2021`
 
-* [emba](https://github.com/e-m-b-a/emba) - emba - The security analyzer for embedded device firmware. `2021`
 
 * [fpicker](https://github.com/ttdennis/fpicker) - picker is a Frida-based fuzzing suite supporting various modes (including AFL++ in-process fuzzing) `2021`
 
@@ -130,5 +129,3 @@
 * [FirmAFL](https://github.com/zyw-200/FirmAFL) - FIRM-AFL is the first high-throughput greybox fuzzer for IoT firmware. `2021`
 
 * [Driver-Security-Analyzer](https://github.com/alibaba-edu/Driver-Security-Analyzer) -  Driver Security Analyzer `2021`
-
-* [fisy-fuzz](https://github.com/0xricksanchez/fisy-fuzz) - This is the full file system fuzzing framework that I presented at the Hack in the Box 2020 Lockdown Edition conference in April. `2020`

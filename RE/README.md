@@ -61,6 +61,8 @@
 
 * [dynTaintTracer](https://github.com/vanhauser-thc/dynTaintTracer) - a taint tracer based on DynamoRIO, currently ARM only `2020`
 
+* [emba](https://github.com/e-m-b-a/emba) - emba - The security analyzer for embedded device firmware. `2021`
+
 
 # second order
 
@@ -85,6 +87,8 @@
 * [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - Ios app signer `2020`
 
 * [bagbak](https://github.com/ChiChou/bagbak) - ios app dump tools `2020`
+
+* [svc_stalker](https://github.com/jsherman212/svc_stalker) - iOS system call/Mach trap interception for checkra1n'able devices `2021`
 
 ## Tools
 
@@ -156,3 +160,5 @@
 * [opaque-predicates-detective](https://github.com/yellowbyte/opaque-predicates-detective) - An approach to detect opaque predicates by identifying the damage caused by the obfuscation `2021`
 
 * [panda](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis `2021`
+
+
