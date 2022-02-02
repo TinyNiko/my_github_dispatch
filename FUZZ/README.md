@@ -129,3 +129,5 @@
 * [FirmAFL](https://github.com/zyw-200/FirmAFL) - FIRM-AFL is the first high-throughput greybox fuzzer for IoT firmware. `2021`
 
 * [Driver-Security-Analyzer](https://github.com/alibaba-edu/Driver-Security-Analyzer) -  Driver Security Analyzer `2021`
+
+* [codeql note](https://github.com/safe6Sec/CodeqlNote) - code ql note `2022`

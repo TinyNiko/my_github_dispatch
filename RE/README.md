@@ -122,6 +122,7 @@
 
 * [pharos](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs `2021`
 
+* [pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler `2021`
 
 ## Other
 
@@ -161,4 +162,5 @@
 
 * [panda](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis `2021`
 
+* [ghidra scripts snippets](https://github.com/HackOvert/GhidraSnippets.git) - Python snippets for Ghidra's Program and Decompiler APIs `2022`
 
