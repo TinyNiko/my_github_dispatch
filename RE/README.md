@@ -10,9 +10,7 @@
 
 ## iOS
 
-* [ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife `2021`
-
-* [Grapefruit](https://github.com/ChiChou/Grapefruit) - Runtime Application Instruments for iOS `2021`
+TODO
 
 ## Symbol
 
@@ -23,7 +21,6 @@
 * [Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book) - Getting started with static program analysis `2021` 
 
 * [sspam](https://github.com/quarkslab/sspam) - Symbolic Simplification with PAttern Matching `2017`
-
 
 ## Tools
 
@@ -37,11 +34,7 @@
 
 * [klee](https://github.com/klee/klee) - KLEE Symbolic Execution Engine `2021`
 
-* [jnitrace-engine](https://github.com/chame1eon/jnitrace-engine) - Engine used by jnitrace to intercept JNI API calls `2021`
-
 * [llvm-mctoll](https://github.com/microsoft/llvm-mctoll) - llvm-mctoll `2021`
-
-* [Ponce](https://github.com/illera88/Ponce) - IDA plugin for taint analysis `2020`
 
 * [retdec](https://github.com/avast/retdec) - retdec `2021`
 
@@ -63,6 +56,8 @@
 
 * [emba](https://github.com/e-m-b-a/emba) - emba - The security analyzer for embedded device firmware. `2021`
 
+* [ghidra scripts snippets](https://github.com/HackOvert/GhidraSnippets.git) - Python snippets for Ghidra's Program and Decompiler APIs `2022`
+
 
 # second order
 
@@ -76,19 +71,19 @@
 
 * [dexcalibur](https://github.com/FrenchYeti/dexcalibur) -  Android reverse engineering tool `2021`
 
-* [quark-engine](https://github.com/quark-engine/quark-engine) - Android Malware (Analysis | Scoring System `2021`
-
 ## protector
 
 * [CustomLinker](https://github.com/liumengdeqq/CustomLinker) - Android custom linker `2018` 
 
 ## iOS
 
+* [ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife `2021`
+
+* [Grapefruit](https://github.com/ChiChou/Grapefruit) - Runtime Application Instruments for iOS `2021`
+
 * [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - Ios app signer `2020`
 
 * [bagbak](https://github.com/ChiChou/bagbak) - ios app dump tools `2020`
-
-* [svc_stalker](https://github.com/jsherman212/svc_stalker) - iOS system call/Mach trap interception for checkra1n'able devices `2021`
 
 ## Tools
 
@@ -128,8 +123,6 @@
 
 * [Docker-OSX](https://github.com/sickcodes/Docker-OSX) - docker-osx `2021`
 
-* [Reflexil](https://github.com/sailro/Reflexil) - The .NET Assembly Editor `2020`
-
 * [awesome-ghidra](https://github.com/TinyNiko/awesome-ghidra) - Ghidra resource  `2021`
 
 * [appmon](https://github.com/dpnishant/appmon) - Monitoring system api `2021`
@@ -156,11 +149,11 @@
 
 * [idahunt](https://github.com/nccgroup/idahunt) - idahunt is a framework to analyze binaries with IDA Pro and hunt for things in IDA Pro `2021`
 
+
 # TODO LIST 
 
 * [opaque-predicates-detective](https://github.com/yellowbyte/opaque-predicates-detective) - An approach to detect opaque predicates by identifying the damage caused by the obfuscation `2021`
 
 * [panda](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis `2021`
 
-* [ghidra scripts snippets](https://github.com/HackOvert/GhidraSnippets.git) - Python snippets for Ghidra's Program and Decompiler APIs `2022`
 

@@ -3,8 +3,6 @@
 
 ## binary fuzz
 
-### ***
-
 * [uniFuzzer](https://github.com/PAGalaxyLab/uniFuzzer) - A fuzzing demo for closed-source binaries based on Unicorn and LibFuzzer `2019`
 
 * [vuzzer](https://github.com/vusec/vuzzer) - VUZZER `2019`
@@ -35,10 +33,6 @@
 
 * [SkCodecFuzzer](https://github.com/googleprojectzero/SkCodecFuzzer) - Fuzzing harness for testing proprietary image codecs supported by Skia on Android `2021`
 
-## **
-
-## NOT HELPFUL
-
 
 ## Android
 
@@ -49,8 +43,6 @@
 * [Bluedroid](https://github.com/JiounDai/Bluedroid) - PoCs of Vulnerabilities on Bluedroid `2018`
 
 ## IOS
-
-* [svc_stalker](https://github.com/jsherman212/svc_stalker) - iOS system call/Mach trap interception for checkra1n'able devices `2021`
 
 * [iometa](https://github.com/Siguza/iometa) - arm64 IOKit class dumper `2020`
 
@@ -101,7 +93,6 @@
 
 * [p0tools](https://github.com/googleprojectzero/p0tools) - Project Zero Docs and Tools `2020`
 
-
 * [CodeAlchemist](https://github.com/SoftSec-KAIST/CodeAlchemist) - Semantics-aware Code Generation for Finding JS engine Vulnerabilities `2019`
 
 * [qsym](https://github.com/sslab-gatech/qsym) - QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing `2020`
@@ -114,7 +105,6 @@
 
 * [sys](https://github.com/PLSysSec/sys) - A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code `2020`
 
-
 * [symbiotic](https://github.com/staticafi/symbiotic) - Symbiotic is a tool for finding bugs in computer programs based on instrumentation, program slicing and KLEE `2021`
 
 * [manul](https://github.com/mxmssh/manul) - Manul is a coverage-guided parallel fuzzer for open-source and blackbox binaries on Windows, Linux and MacOS `2020`
@@ -122,7 +112,6 @@
 * [Kirenenko](https://github.com/ChengyuSong/Kirenenko) - Super Fast Concolic Execution Engine based on Source Code Taint Tracing `2021`
 
 * [security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code. `2021`
-
 
 * [fpicker](https://github.com/ttdennis/fpicker) - picker is a Frida-based fuzzing suite supporting various modes (including AFL++ in-process fuzzing) `2021`
 
@@ -133,8 +122,3 @@
 * [FirmAFL](https://github.com/zyw-200/FirmAFL) - FIRM-AFL is the first high-throughput greybox fuzzer for IoT firmware. `2021`
 
 * [Driver-Security-Analyzer](https://github.com/alibaba-edu/Driver-Security-Analyzer) -  Driver Security Analyzer `2021`
-
-* [codeql note](https://github.com/safe6Sec/CodeqlNote) - code ql note `2022`
-
-
-
