@@ -50,15 +50,6 @@
 
 * [iot-vulhub](https://github.com/firmianay/IoT-vulhub) - iot vulhub `2021`
 
-* [Ropper](https://github.com/sashs/Ropper) - rop gadget finder `2021`
-
-* [WebKit-RegEx-Exploit](https://github.com/LinusHenze/WebKit-RegEx-Exploit) - WebKit-RegEx-Exploit `2018`
-
-* [js-vuln-db](https://github.com/tunz/js-vuln-db) - A collection of JavaScript engine CVEs with PoCs `2019`
-
-* [aSiagaming](https://github.com/vngkv123/aSiagaming) - Chrome and Safari exp code `2020`
-
-* [chrome-sbx-db](https://github.com/allpaca/chrome-sbx-db) - A Collection of Chrome Sandbox Escape POCs/Exploits for learning `2020`
 
 * [s8_2019_2215_poc](https://github.com/chompie1337/s8_2019_2215_poc) - PoC 2019-2215 exploit for S8/S8 active with DAC + SELinux + Knox/RKP bypass `2020`
 
@@ -67,13 +58,10 @@
 
 * [fuzzdata](https://github.com/MozillaSecurity/fuzzdata) - Fuzzing resources for feeding various fuzzers with input `2020`
 
-* [codeql](https://github.com/github/codeql) - codeql `2021`
-
 * [toothpicker](https://github.com/seemoo-lab/toothpicker) - ToothPicker is an in-process, coverage-guided fuzzer for iOS `2021`
 
 
 # TODO LIST 
-
 
 * [lain](https://github.com/microsoft/lain) - A fuzzer framework built in Rust `2020`
 
