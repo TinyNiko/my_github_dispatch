@@ -69,10 +69,6 @@
 
 * [codeql](https://github.com/github/codeql) - codeql `2021`
 
-* [DangerousMemcpy](https://github.com/assafsion/DangerousMemcpy) - a codeql demo `2020`
-
-* [exploit_mitigations](https://github.com/nccgroup/exploit_mitigations) - Knowledge base of exploit mitigations available across numerous operating systems, architectures and applications and versions. `2021`
-
 * [toothpicker](https://github.com/seemoo-lab/toothpicker) - ToothPicker is an in-process, coverage-guided fuzzer for iOS `2021`
 
 
