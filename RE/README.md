@@ -41,7 +41,6 @@
 
 * [rr](https://github.com/rr-debugger/rr) - Record and Replay Framework `2021`
 
-
 * [tenet](https://github.com/gaasedelen/tenet) - A Trace Explorer for Reverse Engineers `2021`
 
 * [pypcode](https://github.com/angr/pypcode) - Python bindings to Ghidra's SLEIGH library for disassembly and IR translation  `2021`
@@ -51,7 +50,6 @@
 * [dynTaintTracer](https://github.com/vanhauser-thc/dynTaintTracer) - a taint tracer based on DynamoRIO, currently ARM only `2020`
 
 * [emba](https://github.com/e-m-b-a/emba) - emba - The security analyzer for embedded device firmware. `2021`
-
 
 
 # second order
@@ -93,3 +91,5 @@
 * [flare-emu](https://github.com/fireeye/flare-emu) - flare emulator `2021`
 
 * [api_palette](https://github.com/0xKira/api_palette) - A code-searching/completion tool, for IDA APIs `2020`
+
+* [syntia](https://github.com/RUB-SysSec/syntia) - Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the Semantics of Obfuscated Code"    `2018`
