@@ -1,64 +1,10 @@
-
-# FUZZ
-
-## binary fuzz
-
-* [uniFuzzer](https://github.com/PAGalaxyLab/uniFuzzer) - A fuzzing demo for closed-source binaries based on Unicorn and LibFuzzer `2019`
-
-* [vuzzer](https://github.com/vusec/vuzzer) - VUZZER `2019`
-
-* [FormatFuzzer](https://github.com/uds-se/FormatFuzzer) - FormatFuzzer `2021`
-
-* [fuzzer](https://github.com/shellphish/fuzzer) - A Python interface to AFL `2017`
-
-* [AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - AFL++ `2021`
-
-* [freedom](https://github.com/sslab-gatech/freedom) - A DOM fuzzer `2021`
-
-* [Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows and macOS `2021`
-
-* [aflnet](https://github.com/aflnet/aflnet) - AFLNET `2021`
-
-* [alfnw](https://github.com/LyleMi/aflnw) - ALFNW `2020`
-
-* [aflsmart](https://github.com/aflsmart/aflsmart) - Smart Greybox Fuzzing `2020`
-
-* [libprotobuf-mutator](https://github.com/google/libprotobuf-mutator) - Library for structured fuzzing with protobuffers `2020`
-
-* [dharma](https://github.com/MozillaSecurity/dharma) - Generation-based, context-free grammar fuzzer `2020`
-
-* [fzero_fuzzer](https://github.com/gamozolabs/fzero_fuzzer) - A fast Rust-based safe and thead-friendly grammar-based fuzz generator `2019`
-
-* [frida-fuzzer](https://github.com/andreafioraldi/frida-fuzzer) - This experimetal fuzzer is meant to be used for API in-memory fuzzing `2020`
-
-* [SkCodecFuzzer](https://github.com/googleprojectzero/SkCodecFuzzer) - Fuzzing harness for testing proprietary image codecs supported by Skia on Android `2021`
-
-
-## Android
-
-* [android_nfc_fuzzer](https://github.com/m-y-mo/android_nfc_fuzzer) - android nfc fuzzer `2020`
-
-* [Jandroid](https://github.com/FSecureLABS/Jandroid) - Jandroid `2020`
-
-* [Bluedroid](https://github.com/JiounDai/Bluedroid) - PoCs of Vulnerabilities on Bluedroid `2018`
-
-## IOS
-
-* [iometa](https://github.com/Siguza/iometa) - arm64 IOKit class dumper `2020`
-
-# EXP
+# USEFUL
 
 * [iot-vulhub](https://github.com/firmianay/IoT-vulhub) - iot vulhub `2021`
 
-
-* [s8_2019_2215_poc](https://github.com/chompie1337/s8_2019_2215_poc) - PoC 2019-2215 exploit for S8/S8 active with DAC + SELinux + Knox/RKP bypass `2020`
-
-
-# Other
-
 * [fuzzdata](https://github.com/MozillaSecurity/fuzzdata) - Fuzzing resources for feeding various fuzzers with input `2020`
 
-* [toothpicker](https://github.com/seemoo-lab/toothpicker) - ToothPicker is an in-process, coverage-guided fuzzer for iOS `2021`
+* [libprotobuf-mutator](https://github.com/google/libprotobuf-mutator) - Library for structured fuzzing with protobuffers `2020`
 
 
 # TODO LIST 
@@ -66,10 +12,7 @@
 * [lain](https://github.com/microsoft/lain) - A fuzzer framework built in Rust `2020`
 
 * [qasan](https://github.com/andreafioraldi/qasan) - QASan is a custom QEMU 3.1.1 that detects memory errors in the guest using AddressSanitizer `2021` 
-
-* [pwn2own2020](https://github.com/sslab-gatech/pwn2own2020) - Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities `2020`
-
-* [TripleDoggy](https://github.com/GoSSIP-SJTU/TripleDoggy) - clang static analyzer `2019`
+`
 
 * [driller](https://github.com/shellphish/driller) - Driller: augmenting AFL with symbolic execution! `2020`
 
@@ -95,8 +38,6 @@
 
 * [Kirenenko](https://github.com/ChengyuSong/Kirenenko) - Super Fast Concolic Execution Engine based on Source Code Taint Tracing `2021`
 
-* [security-research](https://github.com/google/security-research) - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code. `2021`
-
 * [fpicker](https://github.com/ttdennis/fpicker) - picker is a Frida-based fuzzing suite supporting various modes (including AFL++ in-process fuzzing) `2021`
 
 * [syntia](https://github.com/RUB-SysSec/syntia) - Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the Semantics of Obfuscated Code"    `2018`
@@ -106,3 +47,40 @@
 * [FirmAFL](https://github.com/zyw-200/FirmAFL) - FIRM-AFL is the first high-throughput greybox fuzzer for IoT firmware. `2021`
 
 * [Driver-Security-Analyzer](https://github.com/alibaba-edu/Driver-Security-Analyzer) -  Driver Security Analyzer `2021`
+
+* [toothpicker](https://github.com/seemoo-lab/toothpicker) - ToothPicker is an in-process, coverage-guided fuzzer for iOS `2021`
+
+* [uniFuzzer](https://github.com/PAGalaxyLab/uniFuzzer) - A fuzzing demo for closed-source binaries based on Unicorn and LibFuzzer `2019`
+
+* [vuzzer](https://github.com/vusec/vuzzer) - VUZZER `2019`
+
+* [FormatFuzzer](https://github.com/uds-se/FormatFuzzer) - FormatFuzzer `2021`
+
+* [fuzzer](https://github.com/shellphish/fuzzer) - A Python interface to AFL `2017`
+
+* [AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - AFL++ `2021`
+
+* [freedom](https://github.com/sslab-gatech/freedom) - A DOM fuzzer `2021`
+
+* [Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows and macOS `2021`
+
+* [aflnet](https://github.com/aflnet/aflnet) - AFLNET `2021`
+
+* [alfnw](https://github.com/LyleMi/aflnw) - ALFNW `2020`
+
+* [aflsmart](https://github.com/aflsmart/aflsmart) - Smart Greybox Fuzzing `2020`
+
+
+* [dharma](https://github.com/MozillaSecurity/dharma) - Generation-based, context-free grammar fuzzer `2020`
+
+* [fzero_fuzzer](https://github.com/gamozolabs/fzero_fuzzer) - A fast Rust-based safe and thead-friendly grammar-based fuzz generator `2019`
+
+* [frida-fuzzer](https://github.com/andreafioraldi/frida-fuzzer) - This experimetal fuzzer is meant to be used for API in-memory fuzzing `2020`
+
+* [SkCodecFuzzer](https://github.com/googleprojectzero/SkCodecFuzzer) - Fuzzing harness for testing proprietary image codecs supported by Skia on Android `2021`
+
+* [android_nfc_fuzzer](https://github.com/m-y-mo/android_nfc_fuzzer) - android nfc fuzzer `2020`
+
+* [Jandroid](https://github.com/FSecureLABS/Jandroid) - Jandroid `2020`
+
+* [Bluedroid](https://github.com/JiounDai/Bluedroid) - PoCs of Vulnerabilities on Bluedroid `2018`
