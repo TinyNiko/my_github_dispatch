@@ -8,6 +8,12 @@
 
 * [fpicker](https://github.com/ttdennis/fpicker) - picker is a Frida-based fuzzing suite supporting various modes (including AFL++ in-process fuzzing) `2021`
 
+* [Jandroid](https://github.com/FSecureLABS/Jandroid) - Jandroid `2020`
+
+* [Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows and macOS `2021`
+
+* [FormatFuzzer](https://github.com/uds-se/FormatFuzzer) - FormatFuzzer `2021`
+
 # GOOD
 
 * [SkCodecFuzzer](https://github.com/googleprojectzero/SkCodecFuzzer) - Fuzzing harness for testing proprietary image codecs supported by Skia on Android `2021`
@@ -18,6 +24,8 @@
 
 * [Driver-Security-Analyzer](https://github.com/alibaba-edu/Driver-Security-Analyzer) -  Driver Security Analyzer `2021`
 
+* [freedom](https://github.com/sslab-gatech/freedom) - A DOM fuzzer `2021`
+
 
 # POC & EXP
 
@@ -26,29 +34,13 @@
 
 # TODO LIST 
 
-* [driller](https://github.com/shellphish/driller) - Driller: augmenting AFL with symbolic execution! `2020`
+* [AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - AFL++ `2021`
 
-* [qasan](https://github.com/andreafioraldi/qasan) - QASan is a custom QEMU 3.1.1 that detects memory errors in the guest using AddressSanitizer `2021` 
+* [driller](https://github.com/shellphish/driller) - Driller: augmenting AFL with symbolic execution! `2020`
 
 * [qsym](https://github.com/sslab-gatech/qsym) - QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing `2020`
 
 * [Angora](https://github.com/AngoraFuzzer/Angora) - Angora is a mutation-based fuzzer `2020`
-
-* [FirmAFL](https://github.com/zyw-200/FirmAFL) - FIRM-AFL is the first high-throughput greybox fuzzer for IoT firmware. `2021`
-
-* [uniFuzzer](https://github.com/PAGalaxyLab/uniFuzzer) - A fuzzing demo for closed-source binaries based on Unicorn and LibFuzzer `2019`
-
-* [FormatFuzzer](https://github.com/uds-se/FormatFuzzer) - FormatFuzzer `2021`
-
-* [AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - AFL++ `2021`
-
-* [freedom](https://github.com/sslab-gatech/freedom) - A DOM fuzzer `2021`
-
-* [Jackalope](https://github.com/googleprojectzero/Jackalope) - Binary, coverage-guided fuzzer for Windows and macOS `2021`
-
-* [aflsmart](https://github.com/aflsmart/aflsmart) - Smart Greybox Fuzzing `2020`
-
-* [Jandroid](https://github.com/FSecureLABS/Jandroid) - Jandroid `2020`
 
 
 * [lain](https://github.com/microsoft/lain) - A fuzzer framework built in Rust `2020`
@@ -66,7 +58,3 @@
 * [Kirenenko](https://github.com/ChengyuSong/Kirenenko) - Super Fast Concolic Execution Engine based on Source Code Taint Tracing `2021`
 
 * [vuzzer](https://github.com/vusec/vuzzer) - VUZZER `2019`
-
-* [aflnet](https://github.com/aflnet/aflnet) - AFLNET `2021`
-
-* [alfnw](https://github.com/LyleMi/aflnw) - ALFNW `2020`
